@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_camera"
+        android:title="Camera"
+        android:icon="@drawable/camera"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_search"
+        android:title="Search"
+        android:icon="@drawable/search"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_group"
+        android:orderInCategory="100"
+        android:title="New Group"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_broadcast"
+        android:orderInCategory="100"
+        android:title="New Broadcast"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_linked"
+        android:orderInCategory="100"
+        android:title="Linked Devices"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_starred"
+        android:orderInCategory="100"
+        android:title="Starred Messages"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="Settings "
+        app:showAsAction="never" />
+</menu>

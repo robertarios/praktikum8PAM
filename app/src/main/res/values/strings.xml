@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_profile">Name profile</string>
+    <string name="message">Message</string>
+    <string name="time_updates">Time</string>
+    <string name="profile_info">profile</string>
+    <string name="community_info">Stay connected with the community</string>
+    <string name="community_content">A place where you belong Simple group and community messaging to keep in touch with your closest groups.
+    Whether it’s planning a best friends outing or simply staying on top of your family chats, group conversations should feel effortless.</string>
+
+
+    <string-array name="profile_name">
+        <item>Icha Samosir</item>
+        <item>Putri Ayu Manurung</item>
+        <item>Theo Aritonang</item>
+        <item>Salwa Harahap</item>
+        <item>Itha Clarina</item>
+        <item>Tabitha Aqulia</item>
+        <item>Nicholas Hutabarat</item>
+        <item>Wilona Simbolon</item>
+        <item>David Gurning</item>
+        <item>Rafael Manurung</item>
+    </string-array>
+
+    <string-array name="profile_image">
+        <item>@drawable/profile1</item>
+        <item>@drawable/profile2</item>
+        <item>@drawable/profile3</item>
+        <item>@drawable/profile4</item>
+        <item>@drawable/profile5</item>
+        <item>@drawable/profile6</item>
+        <item>@drawable/profile7</item>
+        <item>@drawable/profile8</item>
+        <item>@drawable/profile9</item>
+        <item>@drawable/profile10</item>
+    </string-array>
+
+    <string-array name="updates_name">
+        <item>Salwa Harahap</item>
+        <item>Nicholas Hutabarat</item>
+        <item>Wilona Simbolon</item>
+        <item>Rafael Manurung</item>
+        <item>Icha Samosir</item>
+        <item>Putri Ayu Manurung</item>
+        <item>Theo Aritonang</item>
+        <item>David Gurning</item>
+        <item>Tabitha Aqulia</item>
+        <item>Itha Clarina</item>
+    </string-array>
+
+    <string-array name="updates_image">
+        <item>@drawable/update1</item>
+        <item>@drawable/update2</item>
+        <item>@drawable/update3</item>
+        <item>@drawable/update4</item>
+        <item>@drawable/update5</item>
+        <item>@drawable/update6</item>
+        <item>@drawable/update7</item>
+        <item>@drawable/update8</item>
+        <item>@drawable/update9</item>
+        <item>@drawable/update1</item>
+    </string-array>
+
+    <string-array name="message">
+        <item>Okee</item>
+        <item>Ya</item>
+        <item>Nanti</item>
+        <item>Sampai jumpa</item>
+        <item>Bagaimana keadaanmu?</item>
+        <item>Selamat siang</item>
+        <item>Semangat</item>
+        <item>Besok</item>
+        <item>Terima kasih</item>
+        <item>Halo</item>
+    </string-array>
+
+    <string-array name="calls_name">
+
+        <item>Tabitha Aqulia</item>
+        <item>David Gurning</item>
+        <item>Rafael Manurung</item>
+        <item>Salwa Harahap</item>
+        <item>Itha Clarina</item>
+        <item>Icha Samosir</item>
+        <item>Putri Ayu Manurung</item>
+        <item>Theo Aritonang</item>
+        <item>Nicholas Hutabarat</item>
+        <item>Wilona Simbolon</item>
+    </string-array>
+
+    <string-array name="calls_image">
+
+        <item>@drawable/profile6</item>
+        <item>@drawable/profile9</item>
+        <item>@drawable/profile10</item>
+        <item>@drawable/profile4</item>
+        <item>@drawable/profile5</item>
+        <item>@drawable/profile1</item>
+        <item>@drawable/profile2</item>
+        <item>@drawable/profile3</item>
+        <item>@drawable/profile7</item>
+        <item>@drawable/profile8</item>
+    </string-array>
+
+    <string-array name="updates_time">
+        <item>57m ago</item>
+        <item>1h ago</item>
+        <item>1h ago</item>
+        <item>3h ago</item>
+        <item>3h ago</item>
+        <item>3h ago</item>
+        <item>4h ago</item>
+        <item>5h ago</item>
+        <item>16h ago</item>
+        <item>22h ago</item>
+    </string-array>
+
+    <string-array name="calls_time">
+        <item>25 minutes ago</item>
+        <item>30 minutes ago</item>
+        <item>2h ago</item>
+        <item>9h ago</item>
+        <item>3h ago</item>
+        <item>Yesterday 22.15</item>
+        <item>Yesterday 20.18</item>
+        <item>Yesterday 19.20</item>
+        <item>Yesterday 16.01</item>
+        <item>Yesterday 14.45</item>
+    </string-array>
+
+</resources>
+
+
